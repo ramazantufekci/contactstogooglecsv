@@ -1,1 +1,1 @@
-# Bu uygulama android telefon daki kisileri google kisilere aktarabilmeniz i�in csv dosyasi olusturur.
+## Bu uygulama android telefon daki kişileri google kişilere aktarabilmeniz için csv dosyasi olusturur.
